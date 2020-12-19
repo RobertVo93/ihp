@@ -1,0 +1,27 @@
+<svg width="363" height="181" viewBox="0 0 363 181" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="363" height="181" rx="10" fill="url(#paint0_linear)"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="363" height="181">
+<rect width="363" height="181" rx="10" fill="url(#paint1_linear)"/>
+</mask>
+<g mask="url(#mask0)">
+<g opacity="0.2">
+<path d="M109.956 181.841C107.149 163.911 106.363 125.638 125.67 115.979C149.802 103.906 185.1 152.655 221.016 145.504C249.748 139.782 245.72 91.5189 240.115 68.1024C257.53 77.5609 297.954 93.5001 320.326 81.5889C348.291 66.6999 330.532 12.9853 351.368 4.46582C372.204 -4.05363 391.705 9.90729 417.178 24.0072" stroke="#F2F2F2"/>
+<ellipse rx="5.66899" ry="5.50994" transform="matrix(0.811137 -0.595974 0.582384 0.804321 109.421 181.102)" fill="#F2F2F2"/>
+<ellipse rx="5.66899" ry="5.50994" transform="matrix(0.811137 -0.595974 0.582384 0.804321 125.135 115.241)" fill="#F2F2F2"/>
+<ellipse rx="5.66899" ry="5.50994" transform="matrix(0.811137 -0.595974 0.582384 0.804321 221.247 144.202)" fill="#F2F2F2"/>
+<ellipse rx="5.66899" ry="5.50994" transform="matrix(0.811137 -0.595974 0.582384 0.804321 240.953 70.8813)" fill="#F2F2F2"/>
+<ellipse rx="5.66899" ry="5.50994" transform="matrix(0.811137 -0.595974 0.582384 0.804321 322.697 83.2414)" fill="#F2F2F2"/>
+<ellipse rx="5.66899" ry="5.50994" transform="matrix(0.811137 -0.595974 0.582384 0.804321 350.067 4.29025)" fill="#F2F2F2"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="-7.59917e-08" y1="6.37324" x2="357.63" y2="156.77" gradientUnits="userSpaceOnUse">
+<stop offset="0.187105" stop-color="#4BBDEF"/>
+<stop offset="0.645833" stop-color="#6692D9"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="-7.59917e-08" y1="6.37324" x2="357.63" y2="156.77" gradientUnits="userSpaceOnUse">
+<stop offset="0.187105" stop-color="#4BBDEF"/>
+<stop offset="0.645833" stop-color="#6692D9"/>
+</linearGradient>
+</defs>
+</svg>
