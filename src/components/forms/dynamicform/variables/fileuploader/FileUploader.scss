@@ -1,0 +1,28 @@
+.file-uploader-wrapper {
+    border: 1px dotted grey;
+    border-radius: 10px;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .preview-selected-image {
+        position: absolute;
+        height: 100px;
+        z-index: 50;
+    }
+
+    .drag-drop-label {
+        position: absolute;
+        opacity: 0.5;
+    }
+
+    .custom-file-name-textbox {
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        left: 0px;
+        z-index: 100;
+    }
+}

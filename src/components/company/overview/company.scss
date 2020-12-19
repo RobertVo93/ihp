@@ -1,0 +1,40 @@
+.company-profile {
+    padding: 25px;
+
+    .color-blue {
+        color: #2F80ED;
+    }
+    .profile-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        h2 {
+            font-size: 1.25rem;
+            color: #1B2031;
+            font-weight: bold;
+            span {
+                font-size: 0.75rem;
+                color:  #BEBDC5;
+                display: block;
+                font-weight: normal;
+            }
+        }
+        button {
+            padding: 8px 25px;
+            border-radius: 8px; 
+            color: white;
+            background: #6E1C74;
+            outline: none;
+            border: none;
+        }
+    }
+    .f-14 {
+        font-size: 0.875rem;
+    }
+    .f-12 {
+        font-size: 0.75rem;
+    }
+    .f-20 {
+        font-size: 1.25rem;
+    }
+}

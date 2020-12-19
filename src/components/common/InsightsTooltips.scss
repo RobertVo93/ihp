@@ -1,0 +1,37 @@
+.insights-tooltips {
+    .insight-link-text {
+        color: inherit;
+        font-weight: normal;
+    }
+}
+
+.my-custom-popover {
+    .popover {
+        .popover-inner {
+            .popover-header {
+                .header-text {
+                    text-align: center;
+                }
+
+                .header-text {
+                    font-family: "Noto Sans";
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 14px;
+                    line-height: 22px;
+                    color: #6E1C74;
+                }
+            }
+
+            .popover-body {
+                font-family: "Noto Sans";
+                font-style: normal;
+                font-weight: normal;
+                font-size: 12px;
+                line-height: 18px;
+                text-align: center;
+                color: #000000;
+            }
+        }
+    }
+}
